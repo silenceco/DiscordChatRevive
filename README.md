@@ -61,11 +61,9 @@ pip install discord.py
 
 This project is licensed under the MIT License - feel free to modify and use it in your own Discord servers.
 
-<div align="center">
-
-— v · m · d —
-
-⟨ **M** 〉 Made by **Silence** ⟨/ ⟩
+<p align="center">
+  <code>⚡ crafted by <strong>silence</strong></code>
+</p>
 
 — · —
 
