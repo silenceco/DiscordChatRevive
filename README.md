@@ -39,7 +39,7 @@ pip install discord.py
 ## 🚀 Setup & Configuration
 
 1. Clone the repository:
-   git clone https://github.com/silenceco/deadchat-bot.git
+   git clone [https://github.com/silenceco/deadchat-bot.git](https://github.com/silenceco/DiscordChatRevive)
    cd deadchat-bot
 
 2. Configure script variables:
